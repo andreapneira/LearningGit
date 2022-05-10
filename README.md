@@ -9,4 +9,4 @@ Unfear.
 
 MORE.
 
-apple, banana, cherry
+apple, banana, cherry, pear
